@@ -1,0 +1,7 @@
+"","split","decision_direction","decisioncount","split_count","prop"
+"1","Clear Majority",1,571,1281,0.445745511319282
+"2","Clear Majority",2,710,1281,0.554254488680718
+"3","Split Majority",1,673,1279,0.526192337763878
+"4","Split Majority",2,606,1279,0.473807662236122
+"5","Uninanimous",1,512,1536,0.333333333333333
+"6","Uninanimous",2,1024,1536,0.666666666666667
